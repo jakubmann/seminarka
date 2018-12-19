@@ -1,2 +1,12 @@
-# seminarka
-Nástroje užetečné při tvorbě seminární práce
+# Seminarka
+
+### Generátor citací
+
+```
+citace.py
+```
+
+### Formátovač
+```
+format.py
+```
